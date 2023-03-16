@@ -1,0 +1,18 @@
+button{
+    background-color: blue;
+    font-size: 16px;
+    text-align: center;
+    padding: 15px 32px;
+    border: none;
+    border-radius: 10px;
+    color: white;
+
+}
+
+div.button{
+    text-align: center;
+}
+
+button:hover {
+    background-color:orange;
+  }
